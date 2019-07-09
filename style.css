@@ -1,0 +1,69 @@
+/* Start Body */
+body {
+    background: magenta
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color: red
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%
+}
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo*/
+
+/* Star Menu Primer */
+.menu-primer ul {
+    background-color:magenta;
+    border-radius: 4px;
+    box-shadow:
+    
+    
+
+}
+.menu-primer li {
+    border-right: 1px solid black;
+    display:inline-block;
+}
+.menu-primer a {
+    color:black;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-primer a :hover {
+    background-color: black;
+    color: blueviolet;
+    text-
+}
+
+/* End Menu Primer */
+
