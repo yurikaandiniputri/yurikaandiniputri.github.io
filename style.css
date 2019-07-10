@@ -1,0 +1,215 @@
+/* Start Body */
+body {
+    background:burlywood;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0
+}
+/* End Body */
+
+h1 {
+    font-family: Arial;
+}
+
+.judul-utama {
+    color: black;
+    font-size: 30px
+}
+/* Start Debug */
+.bg-blue {
+    background-color:aliceblue;
+}
+
+.bg-red {
+    background-color: powderblueS
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%
+}
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center; 
+    background-color: moccasin
+}
+.logo program {
+    text-align: center;
+    background-color: moccasin
+/* End Logo*/
+
+/* Star Menu Primer */
+.menu-primer ul {;
+    background-color: livedrab;
+    color: black;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+       
+.menu-primer li {
+    border-right: 1px solid #d1d5da;
+    display:inline-block;
+    margin: 0 --4px;
+}
+.menu-primer a {
+    background-color: olivedrab;
+    color: black;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-primer a:hover {
+    background-color: olivedrab;
+    color:black;
+    text-decoration: none
+}
+.menu-primer .active {
+    background-color: olivedrab;
+    color: black;
+    text-decoration: none  
+}
+/* End Menu Primer */
+
+/* Star Heading */
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+h1 {
+    font-size: 28px
+}
+h2 {
+    font-size: 24px;
+}
+h3{
+    font-size: 18px
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 13px;
+}
+/* End Heading *
+
+/* Start Jumbotron */
+.jumbotron {
+    background-color: #f6f8f6;
+    border: 1px solid #eaecef;
+    border-radius: 4px;
+    padding: 20px
+}
+.jumbotron h1 {
+    font-size: 32px;
+    padding: 0 20px;
+}
+.jumbotron h3 {
+    font-size: 20px;
+    padding: 0 20px
+}
+/* End Jumbotron */
+
+/* Start Main */
+.main-home-one {
+    float: left;
+    width: 49.%;
+}
+
+.main-home-two {
+    float: right;
+    width: 49.5%
+}
+/* End Main */
+
+/* Star Box */
+.box-heading {
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    border-radius: 3px 3px 0 0;
+    margin: 0;
+    padding:  10px 20px;
+    text-transform: uppercase;
+}
+.box-heading h4 {
+    font-size: 14px;
+    margin: 0;
+}
+.box-isi {
+    background-color: white;
+    border: 1px solid silver;
+    border-top: 0c;
+    margin: 0;
+    padding: 10px 20px;
+}
+/* End Box */
+
+/* Star Menu sekunder */
+.menu-sekunder ul {
+    background-color: olivedrab;
+    border-radius: 4px;
+    box-shadow: 
+       0 3px -1px rgba(0,0,0,.2),
+       0 6px 10px 0 rgba(0,0,.14),
+       0 1px 18px 0 rgba(0,0,.12);
+}
+.menu-sekunder li {
+    border-right: 1px solid #d1d5da;
+    display: list-item;
+    margin: 0 --4px;
+}
+.menu-sekunder a {
+    background-color: olivedrab;
+    color: black;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-sekunder a:hover {
+    background-color: olivedrab;
+    color:black;
+    text-decoration: none
+}
+.menu-sekunder .active {
+    background-color: olivedrab;
+    color: black;
+    text-decoration: none  
+}
+/* End Menu Sekunder */
+
+/* Start Copyright */
+.coppyright {
+    font-size: 15px;
+}
+
+/* Start Anchor / hyperlink */
+a:link,
+a:visited {
+    color: aquamarine;
+    text-decoration: none
+}
+a:hover,
+a:active {
+    color:  blue;
+    text-decoration: underline
+}
+/* End Anchor / Hyperlink */
+
